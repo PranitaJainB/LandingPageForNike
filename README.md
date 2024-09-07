@@ -29,3 +29,6 @@ A practice repository for exploring new technologies and honing coding skills.
 
       # Example command
       npm start
+
+#### License
+This project is licensed under the MIT License - see the LICENSE file for details
