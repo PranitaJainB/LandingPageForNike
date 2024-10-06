@@ -1,4 +1,4 @@
-# Practice Project
+# Brand Landing Page
 
 ## Description
 A practice repository for exploring new technologies and honing coding skill in React by creating a Brand Page for shoe.
